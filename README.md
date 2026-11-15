@@ -12,13 +12,14 @@ Plain HTML and CSS — no Jekyll, no build step. Edit a file, commit, and the si
 | `index.html` | About page: bio, job-market note, research interests, education, contact |
 | `research.html` | Job market paper, work in progress, publications, reports, presentations |
 | `teaching.html` | Teaching experience grouped by institution |
+| `bio.html` | Short personal biography |
 | `assets/css/style.css` | All styling. Colours and fonts are variables at the top (`:root`) |
 | `assets/img/` | Profile photo and favicon |
 | `files/` | CV and paper PDFs |
 | `.nojekyll` | Tells GitHub Pages to serve the files as they are |
 
-The header, sidebar and footer are repeated in the three HTML pages. If you change a link there
-(e.g. add Google Scholar), change it in all three.
+The header, sidebar and footer are repeated in the four HTML pages. If you change a link there
+(e.g. add Google Scholar), change it in all four.
 
 ## Pending items
 
