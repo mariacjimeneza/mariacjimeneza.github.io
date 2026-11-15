@@ -25,13 +25,12 @@ The header, sidebar and footer are repeated in the three HTML pages. If you chan
 Search the code for `TODO` — every placeholder is marked, and shows on the page with a yellow highlight
 until it is replaced.
 
-1. **Photo** – save as `assets/img/profile.jpg` (portrait, roughly 800 × 1000 px) and follow the comment
-   above the `portrait placeholder` div in each page.
-2. **CV** – upload the public version as `files/CV_Jimenez_Amaya.pdf`.
-3. **Job market paper** – title, abstract, keywords, and the PDF (e.g. `files/Jimenez_JMP.pdf`; point the
+1. **CV** – upload the public version as `files/CV_Jimenez_Amaya.pdf`.
+2. **Job market paper** – title, abstract, keywords, and the PDF (e.g. `files/Jimenez_JMP.pdf`; point the
    "Latest version" button to it).
-4. Dissertation sentence and supervisors (About page), PhD expected year, job-market season.
-5. ORCID / Google Scholar links (commented out in the sidebar).
+3. Work in progress entries and the expected PhD completion year (About → Education).
+
+To change the photo, replace `assets/img/profile.jpg` (portrait, 4:5, e.g. 640 × 800 px).
 
 ## Adding a publication
 
