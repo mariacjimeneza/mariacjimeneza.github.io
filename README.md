@@ -38,6 +38,12 @@ To change the photo, replace `assets/img/profile.jpg` (portrait, 4:5, e.g. 640 Ã
 Copy one `<li>` block inside `<ul class="pubs">` in `research.html` and edit title, authors, journal and links.
 The abstract opens and closes with the `<details>` element; no JavaScript is involved.
 
+## Search engines
+
+`sitemap.xml` and `robots.txt` tell search engines which pages exist. When you add a page, add it to
+`sitemap.xml` too. The About page carries schema.org `Person` data (in the `<head>`) linking the site to the
+ORCID, Scholar, GitHub, LinkedIn and GSSI profiles.
+
 ## Publishing
 
 In the repository settings â†’ *Pages*, set **Source: Deploy from a branch**, branch `main`, folder `/ (root)`.
